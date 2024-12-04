@@ -3,7 +3,7 @@
 ## Conteúdos
 
 
-### Introdução
+## Introdução
 
 - [Introdução ao **Git**](./Git.md)
 - [Introdução ao **GitHub**](./GitHub.md)
